@@ -28,7 +28,7 @@ This is a backend repository of Oblivion-project, that provides a platform where
 
 ### Installation
 
-- Clone the repository: ``
+- Clone the repository: `https://github.com/Ashish23jun/Oblivion-.git`
 - Install dependencies: `npm install`
 - Set up environment variables:
   - Create a `.env` file in the project root directo
