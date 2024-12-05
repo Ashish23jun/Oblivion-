@@ -1,10 +1,10 @@
-# Nexus
+# Oblivion
 
 ##### Connect, Collaborate, and Thrive Together.
 
 ## Description
 
-This is a backend repository of Nexus-project, that provides a platform where students can connect, share, collaborate, and engage with various coding contests.
+This is a backend repository of Oblivion-project, that provides a platform where students can connect, share, collaborate, and engage with various coding contests.
 
 ## Features
 
@@ -28,10 +28,9 @@ This is a backend repository of Nexus-project, that provides a platform where st
 
 ### Installation
 
-- Clone the repository: `git clone https://github.com/the-nexus-point/nexus-backend.git`
+- Clone the repository: ``
 - Install dependencies: `npm install`
 - Set up environment variables:
-  - Create a `.env` file in the project root directory.
-  <!-- - Add the required environment variables following the `.env.example` file. -->
+  - Create a `.env` file in the project root directo
 - Start the development server: `nodemon app.js`
 # Oblivion-
